@@ -1,0 +1,16 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/freeline
+.idea
+*.iml
+gradle.properties
+gradle/wrapper/gradle-wrapper.properties
+/test
+/app/assets/skin
+infer-out
+
